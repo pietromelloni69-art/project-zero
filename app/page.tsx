@@ -9,7 +9,7 @@ export default function Home() {
             BE GUIDED BY OUR MENTORS
           </p>
           <h1 className="text-5xl font-medium tracking-[-0.04em] sm:text-7xl">
-            Choose the ideal career path for you
+            Learning by building.
           </h1>
           <a
             href="#explore"
