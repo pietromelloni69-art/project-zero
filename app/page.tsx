@@ -19,7 +19,8 @@ export default function Home() {
           </a>
         </div>
       </section>
-
+<a href="/about">About this project</a>
+      
       <section
         id="explore"
         className="relative flex min-h-screen items-center justify-center bg-[linear-gradient(to_bottom,#69645a_0%,#f4f0e8_26%,#f4f0e8_100%)] px-6 py-24 text-[#101010]"
