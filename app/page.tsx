@@ -6,7 +6,7 @@ export default function Home() {
       <section className="flex min-h-screen items-center justify-center bg-[linear-gradient(to_bottom,#101010_0%,#101010_78%,#69645a_100%)] px-6 text-center">
         <div className="w-full max-w-2xl">
           <p className="mb-6 text-sm tracking-[0.3em] text-[#b9b1a3]">
-            BE GUIDED BY OUR MENTORS #2
+            BE GUIDED BY OUR MENTORS #3
           </p>
           <h1 className="text-5xl font-medium tracking-[-0.04em] sm:text-7xl">
             Choose the ideal career path for you
